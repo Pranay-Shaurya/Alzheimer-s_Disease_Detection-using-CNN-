@@ -1,5 +1,5 @@
 
-# Alzheimer's Disease Classification Using CNN
+# Alzheimer's Disease Detection(Classification) Using CNN
 
 This project aims to classify the stages of Alzheimer's Disease using a Convolutional Neural Network (CNN) model. It leverages deep learning techniques to detect Alzheimer's stages from brain MRI images.
 
