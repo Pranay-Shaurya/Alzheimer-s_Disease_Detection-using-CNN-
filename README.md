@@ -3,11 +3,11 @@
 
 This project aims to classify the stages of Alzheimer's Disease using a Convolutional Neural Network (CNN) model. It leverages deep learning techniques to detect Alzheimer's stages from brain MRI images.
 
-## 🧠 Project Overview
+##  Project Overview
 
 Alzheimer's Disease progresses through multiple stages, and early detection is critical. This notebook builds a CNN-based image classification model to classify brain MRI images into different stages of Alzheimer's Disease.
 
-## 📁 Dataset
+##  Dataset
 
 The dataset used contains MRI images of subjects classified into four categories:
 - Non-Demented
@@ -15,7 +15,7 @@ The dataset used contains MRI images of subjects classified into four categories
 - Mild Demented
 - Moderate Demented
 
-## 🚀 Features
+##  Features
 
 - Data preprocessing and augmentation
 - Custom CNN model architecture using TensorFlow and Keras
@@ -23,7 +23,7 @@ The dataset used contains MRI images of subjects classified into four categories
 - Visualization of training performance
 - Classification report and confusion matrix
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 - Python
 - TensorFlow / Keras
@@ -31,7 +31,7 @@ The dataset used contains MRI images of subjects classified into four categories
 - Pandas / NumPy
 - Matplotlib / Seaborn
 
-## 🧪 Setup Instructions
+##  Setup Instructions
 
 1. Clone this repository:
    ```bash
@@ -47,11 +47,11 @@ The dataset used contains MRI images of subjects classified into four categories
 3. Run the notebook:
    Open the `.ipynb` file using Jupyter Notebook or VSCode.
 
-## 📊 Results
+##  Results
 
 The model achieves high classification accuracy on the validation dataset and performs well in detecting the stages of Alzheimer’s Disease.
 
-## 📄 License
+##  License
 
 This project is open source and available under the [MIT License](LICENSE).
 
