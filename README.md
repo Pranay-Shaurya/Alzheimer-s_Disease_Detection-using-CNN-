@@ -51,10 +51,6 @@ The dataset used contains MRI images of subjects classified into four categories
 
 The model achieves high classification accuracy on the validation dataset and performs well in detecting the stages of Alzheimer’s Disease.
 
-##  License
-
-This project is open source and available under the [MIT License](LICENSE).
-
 ---
 
 *Developed by Pranay Shaurya*
